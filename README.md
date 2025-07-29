@@ -23,8 +23,6 @@
   <h2>📌 Projects Inside</h2>
   <ul>
     <li>APIChatbot</li>
-    <li>Basic GUI apps</li>
-    <li>Small automation scripts</li>
   </ul>
 
   <h2>📚 Requirements</h2>
