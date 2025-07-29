@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Python Projects by Yash</title>
 </head>
 <body>
 
@@ -25,7 +24,6 @@
   <ul>
     <li>APIChatbot</li>
     <li>Basic GUI apps</li>
-    <li>Console tools</li>
     <li>Small automation scripts</li>
   </ul>
 
@@ -37,7 +35,6 @@
 
   <h2>👨‍💻 Author</h2>
   <p><strong>Yash Jogdand</strong><br>
-  Student at Datta Meghe College of Engineering<br>
   Passionate about software development and open-source learning.</p>
 
 </body>
