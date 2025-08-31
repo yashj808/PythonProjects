@@ -1,3 +1,5 @@
+# This is an Intermediate Level project
+
 from cryptography.fernet import Fernet
 import os
 
