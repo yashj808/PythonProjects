@@ -7,5 +7,3 @@ A simple **Password Manager** written in Python using **Fernet (cryptography)** 
 - Decrypt and view stored passwords
 - Uses `Fernet` encryption from the `cryptography` library
 - Stores all data in `passwords.txt`
-
-## 📂 Project Structure
