@@ -23,6 +23,7 @@
   <h2>📌 Projects Inside</h2>
   <ul>
     <li>APIChatbot</li>
+    <li>Password Manager</li>
   </ul>
 
   <h2>📚 Requirements</h2>
