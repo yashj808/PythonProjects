@@ -18,4 +18,4 @@ Each turtle moves randomly, and the first to cross the finish line wins!
 - `turtle` module (comes pre-installed with Python).
 
 ---
-### Dificulty: Intermediate Level
+### Dificulty Level: Intermediate
