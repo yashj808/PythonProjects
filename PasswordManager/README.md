@@ -3,8 +3,6 @@
 A simple command-line password manager written in Python using `cryptography.Fernet` for symmetric encryption.  
 Suitable for learning and small personal projects.  
 
-🚀 **This is an Intermediate-level project** — perfect if you already know basic Python and want to practice file handling, encryption, and CLI-based workflows.  
-
 ---
 
 ## 📌 Features
@@ -14,8 +12,6 @@ Suitable for learning and small personal projects.
 - Automatically generates a secure encryption key if not found.
 - Beginner-friendly code structure with comments.
 
----
-
 ## 🛠 Requirements
 - Python 3.8+
 - Libraries:
@@ -24,3 +20,7 @@ Suitable for learning and small personal projects.
 Install dependencies:
 ```bash
 pip install cryptography
+```
+---
+
+### Difficulty Level: Intermediate
