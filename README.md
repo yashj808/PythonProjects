@@ -24,6 +24,7 @@
   <ul>
     <li>APIChatbot</li>
     <li>Password Manager</li>
+    <li>Shortest Path Finder using BFS</li>
   </ul>
 
   <h2>📚 Requirements</h2>
